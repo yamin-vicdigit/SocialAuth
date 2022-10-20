@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "802814432593",
+    "project_id": "socialauth-e39ea",
+    "storage_bucket": "socialauth-e39ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802814432593:android:59d4016f188e13cb516f70",
+        "android_client_info": {
+          "package_name": "com.developeryamin.SocialAuth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "802814432593-hp61v4qnu4lrguirv50r6c1m9q7meccf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.developeryamin.SocialAuth",
+            "certificate_hash": "afa4eb5f1f9a56c5afa39e1a8634f6da2a552235"
+          }
+        },
+        {
+          "client_id": "802814432593-qhgu211lan1hjigs0eem2mfsmikidb4n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.developeryamin.SocialAuth",
+            "certificate_hash": "38b6ed1bc200ec7a8c1ddd70e03cc1807ad4105c"
+          }
+        },
+        {
+          "client_id": "802814432593-d628l7uktv5h7df5r83d4127t0snnf5e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA12CmDDxCOK2KSJKssSvZXrisq23vTVz0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "802814432593-d628l7uktv5h7df5r83d4127t0snnf5e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
