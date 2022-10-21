@@ -8,6 +8,7 @@ import {
   GoogleSignin,
   GoogleSigninButton,
 } from "@react-native-google-signin/google-signin";
+import LottieView from "lottie-react-native";
 
 GoogleSignin.configure({
   webClientId:
@@ -114,6 +115,15 @@ export default function Login() {
         style={{ width: 300, height: 200, borderRadius: 100 }}
       />
       <Button title={"Log Out"} onPress={signOut} />
+      <LottieView
+        autoPlay
+        style={{
+          width: 50,
+          height: 50,
+          backgroundColor: "#eee",
+        }}
+        source={require("../assets/exact-timer-loader.json")}
+      />
       <StatusBar style="auto" />
     </View>
   );
